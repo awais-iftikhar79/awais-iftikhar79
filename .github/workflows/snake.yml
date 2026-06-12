@@ -15,7 +15,7 @@ jobs:
         with:
           github_user_name: awais-iftikhar79
           outputs: |
-            dist/github-contribution-grid-snake-dark.svg
+            dist/github-contribution-grid-snake-dark.svg?color_snake=#C9D1D9&color_dots=#0D1117,#2D1B4E,#4C1D95,#6D28D9,#8B5CF6
       - uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
