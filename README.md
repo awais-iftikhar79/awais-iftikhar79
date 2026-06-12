@@ -290,7 +290,7 @@ Delivered a complete, production-ready professional website for a nationwide leg
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/awais-iftikhar79/awais-iftikhar79/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/awais-iftikhar79/awais-iftikhar79/output/github-contribution-grid-snake-dark.svg?v=2"/>
 
 </div>
 
