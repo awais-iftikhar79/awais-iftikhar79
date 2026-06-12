@@ -41,6 +41,7 @@
 
 ```yaml
 name: "Awais Iftikhar"
+email: "awaischoudhary0709@gmail.com"
 role: "ML Engineering Undergraduate @ GIKI (Class of 2028)"
 focus: ["Machine Learning", "MLOps", "Full Stack Engineering", "Production AI Systems"]
 ```
