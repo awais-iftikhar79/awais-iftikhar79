@@ -299,7 +299,7 @@ $ profile --verbose
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=awais-iftikhar79&theme=transparent&background=0D1117&border=F0A500&ring=F0A500&fire=FF6B35&currStreakLabel=F0A500&sideLabels=E8E8E8&dates=E8E8E8&stroke=F0A500&currStreakNum=FF6B35&sideNums=E8E8E8"/>
+  <img src="https://streak-stats.demolab.com?user=awais-iftikhar79&theme=transparent&background=0D1117&border=F0A500&ring=F0A500&fire=FF6B35&currStreakLabel=F0A500&sideLabels=E8E8E8&dates=E8E8E8&stroke=F0A500&currStreakNum=FF6B35&sideNums=E8E8E8"/>
 </p>
 
 ---
